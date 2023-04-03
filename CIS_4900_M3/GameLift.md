@@ -1,0 +1,1 @@
+Amazon GameLift deploys and manages dedicated game servers hosted in the cloud, on-premises, or through hybrid deployments. Amazon GameLift provides a low-latency and low-cost solution that scales with fluctuating player demand.

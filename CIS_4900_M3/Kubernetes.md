@@ -1,0 +1,1 @@
+K8s is used for container orchestration.

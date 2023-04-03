@@ -1,0 +1,1 @@
+Entry point for backend architecture - Used for building a node.

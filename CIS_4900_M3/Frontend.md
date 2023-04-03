@@ -1,0 +1,1 @@
+The entry point for frontend architecture - Used for building a node.

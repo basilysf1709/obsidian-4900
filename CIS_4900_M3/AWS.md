@@ -1,0 +1,1 @@
+AWS Cloud is a collection of cloud computing services, such as computing, storage, databases, analytics, networking, mobile, developer tools, and more, that are offered by Amazon Web Services.
